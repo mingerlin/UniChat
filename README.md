@@ -1,8 +1,5 @@
 ## 💬 A Full Realtime Chat Application - Unichat
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
-<br>
-
 ### Project Description:
 
 This project allows users to chat with each others in realtime, create multiple chat rooms etc.
@@ -19,3 +16,5 @@ This project allows users to chat with each others in realtime, create multiple 
 - React
 - Firebase
 - [Chat Engine](https://chatengine.io/)
+
+<img src="unichat.gif" alt="video walkthrough">
